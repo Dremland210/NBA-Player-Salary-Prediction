@@ -62,8 +62,9 @@ Model performance is evaluated using metrics such as Mean Absolute Error (MAE) a
 
 1. **Clone the Repository:**
 
-       git clone https://github.com/yourusername/NBA-Player-Salary-Prediction.git
+       git clone https://github.com/dremland210/NBA-Player-Salary-Prediction.git
        cd NBA-Player-Salary-Prediction
+
 
 2. **Open the Notebook:**  
    - In Google Colab: Upload the `NBA_Player_Salary_Prediction.ipynb` file along with the `data/` folder.  
